@@ -6,5 +6,5 @@
 # как пользоваться
 Программу можно открыть в среде программирования Visual Studio Code, нажать f5, откроется окно вывода, ввести количество сотрудников, расстояние в км, тарифы в рублях и оценить работу программы.
 # скриншоты тестов
-![alt text](https://github.com/El1zavetaa/taxi/blob/main/тест%201.jpg)
-![alt text](https://github.com/El1zavetaa/taxi/blob/main/тест%202.jpg)
+![alt text](https://github.com/El1zavetaa/taxi/blob/main/окно%20вывода%201.jpg)
+![alt text](https://github.com/El1zavetaa/taxi/blob/main/окно%20вывода%202.jpg)
